@@ -6,19 +6,19 @@
 
 #### 推荐、排行榜、歌手
 
-![](D:\个人文档\vue-music-app\doc\1.jpg)
+![](doc\1.jpg)
 
 #### 歌单详情
 
-![](D:\个人文档\vue-music-app\doc\2.jpg)
+![](doc\2.jpg)
 
 #### 播放器、播放列表
 
-![](D:\个人文档\vue-music-app\doc\3.jpg)
+![](doc\3.jpg)
 
 #### 搜索页面、个人中心
 
-![](D:\个人文档\vue-music-app\doc\4.jpg)
+![](doc\4.jpg)
 
 ## 开发目的
 
